@@ -1,0 +1,20 @@
+body {
+    background-color: #212121;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/* id: parrafo */
+
+#parrafo {
+    font-size: 20px;
+    color: #c4c4c4;
+}
+
+
+/* class: etiqueta */
+
+.etiqueta {
+    color: #c4c4c4;
+}

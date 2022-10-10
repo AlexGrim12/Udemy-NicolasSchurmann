@@ -1,0 +1,23 @@
+body {
+    background-color: #212121;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.caja {
+    margin: 8px;
+    /* margen entre cajas (fuera)*/
+    padding: 8px;
+    /*separacion entre el borde y el contenido (dentro)*/
+    border-style: dotted dashed solid double;
+    /*tipo de borde (en medio)*/
+    border-width: 8px;
+    border-color: #6e6e6e;
+    border-left: 6px solid #a5a5a5;
+    background-color: #383838;
+    border-radius: 8px;
+    /*bordes redondeados con radio de 8px*/
+    height: 100px;
+    width: 100px;
+    color: beige;
+}

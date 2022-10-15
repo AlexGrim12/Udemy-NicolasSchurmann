@@ -1,0 +1,26 @@
+body {
+    background-color: #141414;
+}
+
+p {
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    text-align: justify;
+    text-indent: 40px;
+    line-height: 1.7;
+    word-spacing: 10px;
+    text-shadow: 2px 2px 2px #808080;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 2px #808080;
+}

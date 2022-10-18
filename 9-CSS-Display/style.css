@@ -1,0 +1,12 @@
+body {
+    background-color: #141414;
+    color: #cacaca;
+}
+
+#1.invisible {
+    display: none;
+}
+
+#2.p {
+    max-width: 350px;
+}

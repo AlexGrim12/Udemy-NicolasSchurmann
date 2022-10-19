@@ -27,6 +27,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    border-radius: 5px;
 }
 
 li a:hover {
@@ -37,6 +38,7 @@ li a:hover {
 .active {
     background-color: #3b3b3b;
     text-shadow: #b3b3b3 0px 0px 15px;
+    border-radius: 5px;
 }
 
 div {

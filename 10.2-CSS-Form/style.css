@@ -1,0 +1,67 @@
+body {
+    background-color: #141414;
+    color: #cacaca;
+    font-family: 'Montserrat', sans-serif;
+    text-shadow: #cacaca 0px 0px 5px;
+}
+
+.box {
+    background-color: #ffffff04;
+    padding: 12px 20px;
+    border-radius: 8px;
+    box-shadow: #cacaca38 0px 0px 20px;
+}
+
+input[type=text] {
+    background-color: #202020;
+    color: #cacaca;
+    text-shadow: #cacaca 0px 0px 1px;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    background-color: #202020;
+    color: #cacaca;
+    text-shadow: #cacaca 0px 0px 10px;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+input[type=submit]:hover {
+    background-color: #cacaca;
+    color: #141414;
+    text-shadow: #141414 0px 0px 10px;
+}
+
+textarea {
+    background-color: #202020;
+    color: #cacaca;
+    text-shadow: #cacaca 0px 0px 1px;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    box-sizing: border-box;
+}

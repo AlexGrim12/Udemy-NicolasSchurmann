@@ -1,0 +1,26 @@
+body {
+    background-color: #141414;
+    color: #cacaca;
+    font-family: 'Montserrat', sans-serif;
+    text-shadow: #cacaca 0px 0px 5px;
+}
+
+.fondo {
+    height: 500px;
+    background: #ffffff07 url(https://placekitten.com/600/750) no-repeat center center fixed;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.fondo2 {
+    height: 200px;
+    background-image: linear-gradient(165deg, #141414, #ffaa0010, #ffaa0034, #ffaa0067);
+    border-radius: 10px;
+}
+
+.box {
+    box-shadow: #cacaca4d 0px 1px 5px inset;
+    border-radius: 5px;
+}
+
+.text {}

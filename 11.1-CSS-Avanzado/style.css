@@ -1,0 +1,52 @@
+body {
+    background-color: #141414;
+    color: #cacaca;
+    font-size: 20px;
+    font-family: 'montserrat', sans-serif;
+}
+
+div {
+    text-align: center;
+}
+
+.boxRed {
+    background-color: #313131;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    border-left: #a13838 5px solid;
+    box-shadow: 0 0 10px #000;
+    transition: 300ms;
+}
+
+.boxRed:hover {
+    transform: scale(1.05);
+}
+
+.boxGreen {
+    background-color: #313131;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    border-left: #3a8a3a 5px solid;
+    box-shadow: 0 0 10px #000;
+    transition: 300ms;
+}
+
+.boxGreen:hover {
+    box-shadow: #cacaca3a 1px 1px 20px;
+}
+
+.boxBlue {
+    background-color: #313131;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    border-left: #3a5a8a 5px solid;
+    box-shadow: 0 0 10px #000;
+    transition: 300ms;
+}
+
+.boxBlue:hover {
+    background-color: #cacaca3a;
+}

@@ -117,7 +117,3 @@ const resta = 1 - 2;
 const multiplicacion = 1 * 2;
 const division = 1 / 2;
 const modulo = 10 % 3;
-
-console.log(suma, resta, multiplicacion, division, modulo);
-
-// Operadores de comparación

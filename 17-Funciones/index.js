@@ -32,3 +32,18 @@ function sumar(a, b, cd) {
 sumar(1, 2, function (resultado) {
   console.log("Resultado", resultado);
 });
+
+//fat arrow function
+const miFatArrowFunction = (a, b) => a + b;
+const r = miFatArrowFunction(1, 2);
+console.log(r);
+
+const otraFatArrowFunction = (a, b) => {
+  return a + b;
+};
+const r2 = otraFatArrowFunction(1, 2);
+console.log(r2);
+
+sumar(2, 3, function (resultado) {
+  console.log("Resultado", resultado);
+});

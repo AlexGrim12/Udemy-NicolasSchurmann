@@ -1,0 +1,56 @@
+body {
+    background-color: #141414;
+    color: #ffffffc2;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 40px;
+}
+#todo {
+    background-color: #ffffff18;
+    border-radius: 10px;
+    padding: 12px;
+    width: 60%;
+    border: none;
+    color: #ffffffc2;
+    font-size: 30px;
+    box-shadow: #ffffff18 0px 0px 10px;
+}
+#todo:focus {
+    outline: none;
+    box-shadow: #ffffff18 0px 0px 30px;
+    transition: .5s;
+    color: #ffffffc2;
+}
+#todo:hover{
+    text-shadow: #ffffff73 0px 0px 10px;
+    box-shadow: #ffffff18 0px 0px 30px;
+    transition: .5s;
+    transition-delay: .05s;
+}
+#btn{
+    background-color: #ffffff18;
+    border-radius: 10px;
+    padding: 12px;
+    width: 20%;
+    border: none;
+    box-shadow: #ffffff18 0px 0px 10px;
+    color: #ffffffc2;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+#btn:hover{
+    box-shadow: #ffffff18 0px 0px 30px;
+    transition: .5s;
+    transition-delay: .05s;
+}
+#todo-list{
+    text-shadow: #ffffff73 0px 0px 10px;
+    list-style-type: none;
+}
+#todo-list:hover{
+    text-shadow: #ff3030c9 0px 0px 10px;
+    color: #ff3030c9;
+    transition: .5s;
+    transition-delay: .05s;
+}
